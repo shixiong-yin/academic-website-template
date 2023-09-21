@@ -1,6 +1,6 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
+title: Shixiong Yin
+email: zenithysx@gmail.com
 description: Academic webpage of Dr. Richard Feynman
 baseurl: ""
 url: ""
@@ -12,17 +12,19 @@ url: ""
 
 # Footer info
 affiliation: >
-    Richard Feynman<br/>
-    Professor of Physics<br/>
-    California Institute of Technology
+    Shixiong Yin<br/>
+    PhD candidate<br/>
+    The City University of New York
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  Advanced Science Research Center<br/>
+  Photonics Initiative<br/>
+  The City University of New York<br/>
+  85 St. Nicholas Terrace<br/>
+  New York, NY 10031
 
 contact: >
-    <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
+    <a href="mailto:syin000@citymail.cuny.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
     <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
