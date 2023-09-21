@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About me"
 layout: gridlay
 sitemap: false
 permalink: /about/
