@@ -1,21 +1,21 @@
-- name: Dr. Richard Feynman
+- name: Shixiong Yin
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  info: PhD candidate, City University of New York
+  email: syin000@citymail.cuny.edu
+  github: https://github.com/shixiong-yin
+  researchgate: https://www.researchgate.net/profile/Shixiong-Yin
+  scholar: https://scholar.google.com/citations?user=piqElt8AAAAJ&hl=en
   cv: cv/cv.pdf
   # Change the number below to the number of "educations" you have (up to 6)
   number_educ: 2
-  education1: "(1942) Ph.D. Physics, Princeton University"
-  education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
+  education1: "(2019-now) Ph.D. Electrical Engineering, City University of New York"
+  education2: "(2015-2019) B.Eng., Harbin Institute of Technology"
   # education3: 
   # education4: 
   # education5: 
   # education6: 
-  education1short: (1942) Ph.D. Physics, Princeton
-  education2short: (1939) B.S. Physics, MIT
+  education1short: (2019-now) Ph.D. EE, CUNY
+  education2short: (2015-2019) B.Eng. EE, HIT
   # education3short: 
   # education4short: 
   # education5short: 
